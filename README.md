@@ -4,14 +4,14 @@ A workout app for your phone. It logs lifts, runs, weight, mobility, streaks, ba
 
 ## 1. Publish it (one time, about 3 minutes)
 
-1. On github.com, open the repository **dlowww/fitness-**.
+1. On github.com, open the repository **Dlowww/Fitness-**.
 2. **Make it public:** click **Settings** → scroll to the bottom ("Danger Zone") → **Change visibility** → **Public** → confirm.
    *(Only the app's code becomes visible. Your workout data never leaves your phone.)*
 3. **Turn on GitHub Pages:** **Settings** → **Pages** (left menu).
    - Under "Build and deployment", set Source to **Deploy from a branch**.
    - Choose the branch **ccr-ba0ee440-g74173**, folder **/ (root)**, then **Save**.
 4. Wait 1–2 minutes and refresh the page. You'll see your address:
-   **https://dlowww.github.io/fitness-/**
+   **https://dlowww.github.io/Fitness-/**
 
 ## 2. Put it on your phone
 
