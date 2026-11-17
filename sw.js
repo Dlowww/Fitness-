@@ -1,6 +1,6 @@
 // Service worker: caches the app so it works offline at the gym.
 // Bump VERSION whenever app files change so phones pick up the update.
-const VERSION = 'v1.0.0';
+const VERSION = 'v1.0.1';
 const CACHE = 'workout-' + VERSION;
 const FILES = [
   './', 'index.html', 'manifest.webmanifest', 'css/app.css',
